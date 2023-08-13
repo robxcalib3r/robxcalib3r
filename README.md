@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin Khisa</h1>
-<h3 align="center">A passionate Developer, Graphics Designer and Electrical Engineering Undergraduate from Bangladesh</h3>
+<h3 align="center">A passionate Programmer, Engineer & Designer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [NSTU SOTS](https://github.com/robxcalib3r/NSTU_SOTS)
 
