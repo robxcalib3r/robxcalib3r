@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/robxcalib3r](https://github.com/robxcalib3r)
 
-- 💬 Ask me about **Android, Robotics**
-
 - 📫 How to reach me **robxcalib3r@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
