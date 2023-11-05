@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robin Khisa</h1>
 <h3 align="center">A passionate Programmer, Engineer & Designer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [NSTU SOTS](https://github.com/robxcalib3r/NSTU_SOTS)
-
-- 🌱 I’m currently learning **Kivy, Python, Machine Learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/robxcalib3r](https://github.com/robxcalib3r)
 
 - 📫 How to reach me **robxcalib3r@gmail.com**
