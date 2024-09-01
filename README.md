@@ -1,23 +1,7 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A System Engineer, Backend Developer and a passionate Designer</h3>
-
-I am a problem solver by nature and a designer at heart.
-
-My approach to problem-solving is reflected by automating mundane tasks that suck your soul out. Operations that take hours to complete, using concurrency and parallelization, get solved in minutes.
-
-Redesigning processes and looking into different perspective for edge cases make my brain happy. In my workplace, I have used python to automate information update of employees, reducing the time required by 5x.
-
-I like hardware, that’s why I chose Electrical and Electronics Engineering in my bachelor’s. I have experience with Arduino, Raspberry Pi, NVIDIA Jetson Nano in building embedded systems.  
-
-However, I eventually discovered that solving software problems, which are quicker to deploy, offers much more excitement than the slower pace of the hardware domain. Now, I enjoy developing backend systems more than ever.
-
-My knowledge of both hardware and software makes me a strong candidate for designing systems that require efficiency and high performance.
-
-I love thinking and imagining in more than 2-Dimension. I believe a good visualization can actually help people to understand and feel the deeper meaning of complex things. Maybe that's why I draw more than often, be it diagram, flowchart or even 3D model. 
-
-I love to help people out! Just DM me and feel free to reach me out. I am open to both discussion and collaboration.
-
-- 📫 How to reach me **robxcalib3r@gmail.com**
+I'm Robin Khisa, a System Engineer, Tinkerer and a passionate Designer.
+I love thinking visually and want to create interactive systems.
+I'm currently learning Go and Rust.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
