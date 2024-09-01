@@ -1,3 +1,9 @@
+<p align="center">
+  <a>
+    <img src="robOS.gif">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋</h1>
 I'm Robin Khisa, a System Engineer, Tinkerer and a passionate Designer.
 I love thinking visually and want to create interactive systems.
